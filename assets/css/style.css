@@ -4,6 +4,7 @@
 
 body {
   word-break: break-word;
+  background-color: #eee;
 }
 
 .wrapper {
@@ -48,6 +49,7 @@ body {
 
 .hero {
   padding-bottom: 3rem;
+  background-color: #fff;
 }
 
 .hero-info {
@@ -97,7 +99,8 @@ body {
 }
 
 .adventures {
-  color: #ffffff;
+  background-color: #fff;
+  color: #fff;
   padding: 4rem 0 8.8rem 0;
 }
 
@@ -216,6 +219,7 @@ body {
 
 .gallery {
   padding: 7rem 0 3rem 0;
+  background-color: #fff;
 }
 
 .gallery-title {
@@ -240,6 +244,7 @@ body {
 
 .team {
   padding: 3rem 0;
+  background-color: #fff;
 }
 
 .team-info {
@@ -297,10 +302,11 @@ body {
 
 .partners {
   padding: 3rem 0 6rem 0;
+  background-color: #fff;
 }
 
 .footer {
-  background: rgba(0, 0, 0, 0.05);
+  background-color: #f8f8f8;
 }
 
 .socials {
@@ -324,7 +330,7 @@ body {
   .header {
     position: static;
   }
-  
+
   .hero-info {
     padding-top: 4rem;
   }
